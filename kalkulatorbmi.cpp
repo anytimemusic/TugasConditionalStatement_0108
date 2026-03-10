@@ -28,4 +28,4 @@ int main() {
         cout << "Kategori: hino dutro" << endl;
 
     return 0;
-}
+} 
